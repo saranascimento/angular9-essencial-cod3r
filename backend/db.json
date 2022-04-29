@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Lapis Pretooooo",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "price": "99.99",
+      "id": 5
+    },
+    {
+      "name": "teste color",
+      "price": "21",
+      "id": 6
+    }
+  ]
+}
